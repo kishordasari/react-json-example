@@ -1,0 +1,24 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Web Development",
+        "body": "Todays article will demonstrate how to develop a login form in react js using formik."
+      },
+      {
+        "id": 2,
+        "title": "ReactJS & React Native",
+        "body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+      },
+      {
+        "id": 3,
+        "title": "Angular JS",
+        "body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+      },
+      {
+        "id": 4,
+        "title": "Node JS",
+        "body": "In this article, I will teach you how to parse or read CSV files in ReactJS in the simplest way possible. "
+      }
+    ]
+}
